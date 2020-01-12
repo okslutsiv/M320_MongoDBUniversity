@@ -1,2 +1,2 @@
 # M320: Data Modeling
-![]('M320_Data Modelling.png')
+![Course Completion Confirmation]('M320_Data Modelling.png')
